@@ -1,0 +1,1775 @@
+{
+	"folder_history":
+	[
+		"/D/Work/BigBuda/HelpNet/wp-helpnet",
+		"/D/Work/BigBuda/Guardalo/wp-guardalo",
+		"/D/Repositorios/wmo-launcher",
+		"/D/Repositorios/pagohub",
+		"/D/Work/WMO-S10/Data/Local",
+		"/D/Work/BigBuda/Vintek/wp-vintek",
+		"/D/Work/BigBuda/Hux/wp-hux/wp-content/themes/jupiter-child",
+		"/D/Work/BigBuda/HeadLine/wp-headline",
+		"/D/Repositorios/wmo-backend/server-files",
+		"/D/Work/BigBuda/Empresas-FT/wp-ft",
+		"/D/Work/BigBuda/Hux/wp-hux",
+		"/D/Work/BigBuda/Hux/wp-content/themes/jupiter-child",
+		"/D/Work/BigBuda/HeadBike/wp-headbike",
+		"/D/Repositorios/worldmuonline.com.mx"
+	],
+	"last_version": 3126,
+	"last_window_id": 113,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"item_",
+						"item_name"
+					],
+					[
+						"ite",
+						"item_id"
+					],
+					[
+						"item",
+						"item_name"
+					],
+					[
+						"se",
+						"section_Name"
+					],
+					[
+						"sec",
+						"section_id"
+					],
+					[
+						"backg",
+						"background"
+					],
+					[
+						"mssq",
+						"mssql_fetch_row"
+					],
+					[
+						"get",
+						"get_current_status"
+					],
+					[
+						"cunt",
+						"cuentas_activas"
+					],
+					[
+						"mssql",
+						"mssql_query"
+					],
+					[
+						"msql",
+						"mssql_num_rows"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"ma",
+						"margin-left"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"im",
+						"important"
+					],
+					[
+						"pa",
+						"padding-bottom"
+					],
+					[
+						"ca",
+						"cantidad_de_cuentas"
+					],
+					[
+						"marg",
+						"margin-bottom"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"r",
+						"rgba\trgba()"
+					],
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"trans",
+						"transparent"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"bl",
+						"block"
+					],
+					[
+						"ine",
+						"inherit"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"impo",
+						"important"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"preio_",
+						"precio_promo"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"pro",
+						"productid"
+					],
+					[
+						"opac",
+						"opacity\topacity()"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"back-",
+						"background-repeat"
+					],
+					[
+						"backgro",
+						"background"
+					],
+					[
+						"noticia",
+						"noticia_id"
+					],
+					[
+						"ho",
+						"hover"
+					],
+					[
+						"backgr",
+						"background-image"
+					],
+					[
+						"nth",
+						"nth-child"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"dsi",
+						"display"
+					],
+					[
+						"font-",
+						"font-size"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"de",
+						"dev"
+					],
+					[
+						"lo",
+						"log"
+					],
+					[
+						"Bui",
+						"buildDir"
+					],
+					[
+						"build",
+						"buildDir"
+					],
+					[
+						"Bu",
+						"build"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"c",
+						"cover"
+					],
+					[
+						"po",
+						"position"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 342.0,
+				"last_filter": "sass",
+				"selected_items":
+				[
+					[
+						"sass",
+						"SassBeautify"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Discover Packages"
+					]
+				],
+				"width": 454.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Work/BigBuda/Vintek/wp-vintek/wp-content/themes/jupiter-child/views/footer/sub-footer.php",
+				"/D/Repositorios/pagohub/public/index.php",
+				"/D/Repositorios/pagohub/resources/views/includes/header.blade.php",
+				"/D/Work/BigBuda/Vintek/wp-vintek/xml/items.php",
+				"/D/Work/BigBuda/Vintek/wp-vintek/wp-content/themes/jupiter-child/style.css",
+				"/C/Users/Javier/Documents/English.xml",
+				"/D/Work/BigBuda/Vintek/wp-vintek/xml/read.php",
+				"/D/Work/BigBuda/Vintek/wp-vintek/wp-content/themes/jupiter-child/_global.scss",
+				"/D/Work/BigBuda/IGC_ItemList.xml",
+				"/D/Work/BigBuda/Vintek/wp-vintek/xml/items.xml",
+				"/D/Repositorios/pagohub/xml/read.php",
+				"/D/Repositorios/pagohub/xml/items.xml",
+				"/D/Work/BigBuda/Vintek/wp-vintek/wp-content/themes/jupiter-child/style.scss",
+				"/D/Work/BigBuda/Vintek/wp-vintek/wp-content/themes/jupiter-child/_mixins.scss",
+				"/C/Users/Javier/AppData/Roaming/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+				"/C/Users/Javier/AppData/Roaming/Sublime Text 3/Packages/User/SassBeautify.sublime-settings",
+				"/D/Work/BigBuda/Vintek/wp-vintek/gulpfile.js",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/functions.php",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/game_account_migrate_sql.php",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/style.css",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/get_accounts_by_id.php",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/assets/intro.min.js",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/main.js",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/footer.php",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter/assets/stylesheet/components-full.css",
+				"/D/Repositorios/worldmuonline.com.mx/server/models/funciones.php",
+				"/C/Users/Javier/AppData/Local/Temp/Rar$EX73.584/documentation/WooCommerce Product Filter Documentation.html",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter/footer.php",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/game_account_create.php",
+				"/D/Repositorios/worldmuonline.com.mx/server/models/sql.class.php",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/get_server_info.php",
+				"/C/Users/Javier/Documents/premios-gm.txt",
+				"/C/Users/Javier/Documents/premios-gm-txt.xml",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/game_account_migrate.php",
+				"/D/Repositorios/worldmuonline.com.mx/wp-config.php",
+				"/D/Repositorios/wmo-backend/server-files/modulos/rankings-top-players.php",
+				"/D/Repositorios/worldmuonline.com.mx/log_file_sql.log",
+				"/D/Repositorios/wmo-backend/server-files/models/funciones.php",
+				"/D/Repositorios/worldmuonline.com.mx/server/models/log_file_sql.log",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter-child/style.scss",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter-child/_global.scss",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter-child/views/header/master/checkout.php",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter/framework/plugin-integrations/woocommerce/init.php",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter/views/header/master/checkout.php",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter-child/main.js",
+				"/C/Users/Javier/Downloads/Listado 09-11.csv",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/my_functions.php",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter-child/functions.php",
+				"/D/Repositorios/wmo-backend/theme-backend/my_functions.php",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter/languages/en_US.po",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/get_server_time.php",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter-child/_mobile.scss",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/gulpfile.js",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/package.json",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-config.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-config.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/gulpfile.js",
+				"/D/Repositorios/wmo-backend/server-files/modulos/crear-cuenta-post.php",
+				"/D/Repositorios/worldmuonline.com.mx/.gitignore",
+				"/D/Repositorios/worldmuonline.com.mx/sftp-config.json",
+				"/D/Repositorios/wmo-backend/server-files/models/sql.class.php",
+				"/D/Repositorios/wmo-backend/server-files/sftp-config.json",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/start_game_download.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/main.js",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/custom.scss",
+				"/C/Users/Javier/Downloads/firma.html",
+				"/C/Users/Javier/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/Javier/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/views/layout/title.php",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/views/layout/breadcrumb.php",
+				"/C/Users/Javier/Downloads/wmo.sql",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/uploads/mk_assets/components-production.min.css",
+				"/D/Work/BigBuda/HeadLine/wp-headline/package.json",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/package.json",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/gulpfile.js",
+				"/D/Repositorios/wmo-backend/server-files/modulos/modificar-cuentas.php",
+				"/D/Repositorios/wmo-backend/wordpress-backend/modules/crear-cuenta-form.php",
+				"/D/Repositorios/wmo-backend/server-files/modulos/administrar-cuentas.php",
+				"/D/Repositorios/wmo-backend/theme-backend/custom_style.css",
+				"/D/Work/IGC_ItemListS9.xml",
+				"/D/Repositorios/wmo-wizard/app/assets/css/main.scss",
+				"/D/Repositorios/wmo-wizard/app/assets/js/main.js",
+				"/D/Repositorios/wmo-wizard/gulpfile.js",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/_mobile.scss",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/functions.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/header.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/main.js",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/woocommerce/content-single-product.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/style.scss",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/_global.sass",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/_base.sass",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/style.css",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/css/woocommerce.css",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/js/init.js",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/css/responsive.css",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/header.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css",
+				"/D/Work/BigBuda/HeadBike/headbike-db.sql",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/functions.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/includes/header-search.php",
+				"/D/Repositorios/pagohub-intra/model/user.object.php",
+				"/D/Repositorios/pagohub-intra/controllers/setting.conf.php",
+				"/D/Repositorios/pagohub-intra/views/login.html",
+				"/D/Repositorios/pagohub-intra/node/pagohub-intra/gulpfile.js",
+				"/D/Repositorios/PagoHub-Frontend/app/styles/components/components.scss",
+				"/D/Repositorios/PagoHub-Frontend/app/styles/main.scss",
+				"/D/Repositorios/PagoHub-Frontend/gulpfile.js",
+				"/D/Repositorios/PagoHub-Frontend/app/styles/components/_objects.scss",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/woocommerce/single-product/product-attributes.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/plugins/woocommerce/templates/single-product/product-attributes.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-config.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/.gitignore",
+				"/D/Work/BigBuda/HeadLine/wp-headline/bitbucket-pipelines.yml",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/main.js",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/single-portfolio.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/custom.css",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/views/singular/wp-single-portfolio.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/framework/helpers/image-resize.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/functions.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/style.scss",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/style.css",
+				"/D/Work/httpd-vhosts.conf - Acceso directo.lnk",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/plugins/yith-woocommerce-wishlist/templates/add-to-wishlist.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/plugins/yith-woocommerce-product-slider-carousel/templates/product_slider_view_default.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/plugins/yith-woocommerce-wishlist/templates/add-to-wishlist-button.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/css/colors.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/.gitignore",
+				"/D/Repositorios/LectorRSS.github.io/src/assets/css/main.scss"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 92.0,
+				"where_history":
+				[
+					"D:\\Repositorios\\worldmuonline.com.mx\\wp-content\\themes\\jupiter",
+					"D:\\Repositorios\\worldmuonline.com.mx\\server",
+					"D:\\Work\\BigBuda\\FlyBall\\wp-flyball\\wp-content\\themes\\jupiter",
+					"D:\\Work\\BigBuda\\FlyBall\\wp-flyball\\wp-content\\themes\\jupiter\\views",
+					"D:\\Work\\BigBuda\\HeadBike\\wp-headbike\\wp-content\\plugins\\woocommerce-products-carousel-all-in-one",
+					"D:\\Repositorios\\wmo-backend\\server-files\\modulos",
+					"D:\\Repositorios\\wmo-backend",
+					"D:\\Work\\BigBuda\\HeadBike\\wp-headbike\\wp-content\\themes\\salient",
+					"D:\\Work\\BigBuda\\HeadBike\\wp-headbike\\wp-content\\themes",
+					"D:\\Work\\BigBuda\\HeadBike\\wp-headbike\\wp-content\\plugins\\woocommerce\\templates",
+					"D:\\Work\\BigBuda\\HeadBike\\wp-headbike\\wp-content\\plugins\\woocommerce\\templates\\single-product",
+					"D:\\Work\\BigBuda\\HeadLine\\wp-headline\\wp-content\\themes\\jupiter",
+					"D:\\Work\\BigBuda\\HeadBike\\wp-headbike\\wp-content\\themes\\salient",
+					"D:\\Repositorios\\PagoHub-Frontend\\app\\styles"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"37",
+					";",
+					"\t",
+					"\t0\t0\t",
+					";",
+					"0.7",
+					"<!--",
+					"Text=\"",
+					"<Msg ID=\"1\" Text=\"",
+					"n%s",
+					"o%s",
+					" \"/> <! - Libre, sin uso",
+					"%",
+					"l%d",
+					"%d",
+					"e%d",
+					"%",
+					"a%s ",
+					"r%s",
+					"d%s ",
+					"r%d",
+					"y%s",
+					":%s",
+					"s%d",
+					":%d",
+					"e%d ",
+					"en%d",
+					"%",
+					"Text=\"",
+					"\t\t\n",
+					"<Item ",
+					";",
+					"blog-item-holder",
+					".mk-blog-newspaper-item .blog-item-holder",
+					"<Msg ID=",
+					"<Msg ID=\"382\" Text=\"",
+					";",
+					";\n",
+					"cerrar",
+					"Done",
+					"list",
+					"wpb_adding_scripts",
+					";",
+					"sidebar",
+					".mk-process-steps ul li h3",
+					";",
+					".mk-process-steps",
+					"\\",
+					"mk-process-steps",
+					";\n",
+					"19",
+					";",
+					"\"mk-footer\"",
+					"mk-footer",
+					"wpb_adding_scripts",
+					"<!-- ",
+					"footer",
+					"<?php echo $pj[2]; ?>",
+					"Nombrepj",
+					";",
+					"current_user",
+					"`",
+					"S9",
+					"\"",
+					"$",
+					"$fecha_desconeccion[0]",
+					";",
+					"hook_header",
+					";",
+					"..",
+					"server",
+					"pper",
+					";",
+					"test_init",
+					"\").hide();",
+					"jQuery(\"",
+					"Añadir al carr",
+					".mk-product-holder",
+					";",
+					".shopping-cart-header .mk-header-cart-count",
+					"mk-shoping-cart-link",
+					"mk-moon-cart-2",
+					"mk-shoping-cart-link",
+					"http://www.headline.cl",
+					"wp-content/themes/jupiter-child",
+					"http://www.flyball.cl/",
+					";",
+					"product-title",
+					";",
+					"Checkout\"",
+					"Checko",
+					"ks_forum_icons",
+					":",
+					".bbp-forums, .bbp-topic-form",
+					"    margin: 30px 0;",
+					"mk-footer-copyright",
+					"909",
+					";",
+					"fff",
+					"fed731",
+					"ee1c25",
+					";",
+					"custom",
+					"<div class='charoption error'>",
+					"$user",
+					"\"",
+					"El nombre de la cuenta es invalido",
+					"$",
+					"<td>\t",
+					"_",
+					"</td><td>",
+					"\t<td>",
+					":",
+					";",
+					"wizard_migrar_acc",
+					"553",
+					"100",
+					"image_hom",
+					"237px",
+					"428px",
+					"cuadrad",
+					";\n",
+					"as Condes.",
+					" !important",
+					";",
+					".noticia",
+					"the-title ",
+					"jQuery"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"n %s",
+					"o %d",
+					"l %d",
+					"e %d",
+					"a %s ",
+					"r %s",
+					"d %s ",
+					"r %d",
+					"y %s",
+					": %s",
+					"s %d",
+					": %d",
+					"e %d ",
+					"en %d",
+					"\"",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 27.0
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 130.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\Javier\\Documents\\Proyectos\\Hux.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 291.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 116.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"item_",
+						"item_name"
+					],
+					[
+						"ite",
+						"item_id"
+					],
+					[
+						"item",
+						"item_name"
+					],
+					[
+						"se",
+						"section_Name"
+					],
+					[
+						"sec",
+						"section_id"
+					],
+					[
+						"backg",
+						"background"
+					],
+					[
+						"mssq",
+						"mssql_fetch_row"
+					],
+					[
+						"get",
+						"get_current_status"
+					],
+					[
+						"cunt",
+						"cuentas_activas"
+					],
+					[
+						"mssql",
+						"mssql_query"
+					],
+					[
+						"msql",
+						"mssql_num_rows"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"ma",
+						"margin-left"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"im",
+						"important"
+					],
+					[
+						"pa",
+						"padding-bottom"
+					],
+					[
+						"ca",
+						"cantidad_de_cuentas"
+					],
+					[
+						"marg",
+						"margin-bottom"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"r",
+						"rgba\trgba()"
+					],
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"trans",
+						"transparent"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"bl",
+						"block"
+					],
+					[
+						"ine",
+						"inherit"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"impo",
+						"important"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"preio_",
+						"precio_promo"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"pro",
+						"productid"
+					],
+					[
+						"opac",
+						"opacity\topacity()"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"back-",
+						"background-repeat"
+					],
+					[
+						"backgro",
+						"background"
+					],
+					[
+						"noticia",
+						"noticia_id"
+					],
+					[
+						"ho",
+						"hover"
+					],
+					[
+						"backgr",
+						"background-image"
+					],
+					[
+						"nth",
+						"nth-child"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"dsi",
+						"display"
+					],
+					[
+						"font-",
+						"font-size"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"de",
+						"dev"
+					],
+					[
+						"lo",
+						"log"
+					],
+					[
+						"Bui",
+						"buildDir"
+					],
+					[
+						"build",
+						"buildDir"
+					],
+					[
+						"Bu",
+						"build"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"c",
+						"cover"
+					],
+					[
+						"po",
+						"position"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/Work/BigBuda/HelpNet/wp-helpnet/wp-content/themes/jupiter-child/_global.scss",
+					"settings":
+					{
+						"buffer_size": 167,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Repositorios/wmo-launcher/Season9/right.php",
+					"settings":
+					{
+						"buffer_size": 1123,
+						"encoding": "Western (Windows 1252)",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/Repositorios/wmo-launcher/Season9/left_new.php",
+					"settings":
+					{
+						"buffer_size": 2516,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Repositorios/wmo-launcher/Season10/index.php",
+					"settings":
+					{
+						"buffer_size": 4105,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 342.0,
+				"last_filter": "sass",
+				"selected_items":
+				[
+					[
+						"sass",
+						"SassBeautify"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Discover Packages"
+					]
+				],
+				"width": 454.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/Work/BigBuda/HelpNet/wp-helpnet",
+				"/D/Work/BigBuda/HelpNet/wp-helpnet/wp-content",
+				"/D/Work/BigBuda/HelpNet/wp-helpnet/wp-content/themes",
+				"/D/Work/BigBuda/HelpNet/wp-helpnet/wp-content/themes/jupiter-child"
+			],
+			"file_history":
+			[
+				"/D/Work/BigBuda/HelpNet/wp-helpnet/wp-content/themes/jupiter-child/_mixins.scss",
+				"/D/Work/BigBuda/Vintek/wp-vintek/wp-content/themes/jupiter-child/views/footer/sub-footer.php",
+				"/D/Repositorios/pagohub/public/index.php",
+				"/D/Repositorios/pagohub/resources/views/includes/header.blade.php",
+				"/D/Work/BigBuda/Vintek/wp-vintek/xml/items.php",
+				"/D/Work/BigBuda/Vintek/wp-vintek/wp-content/themes/jupiter-child/style.css",
+				"/C/Users/Javier/Documents/English.xml",
+				"/D/Work/BigBuda/Vintek/wp-vintek/xml/read.php",
+				"/D/Work/BigBuda/Vintek/wp-vintek/wp-content/themes/jupiter-child/_global.scss",
+				"/D/Work/BigBuda/IGC_ItemList.xml",
+				"/D/Work/BigBuda/Vintek/wp-vintek/xml/items.xml",
+				"/D/Repositorios/pagohub/xml/read.php",
+				"/D/Repositorios/pagohub/xml/items.xml",
+				"/D/Work/BigBuda/Vintek/wp-vintek/wp-content/themes/jupiter-child/style.scss",
+				"/D/Work/BigBuda/Vintek/wp-vintek/wp-content/themes/jupiter-child/_mixins.scss",
+				"/C/Users/Javier/AppData/Roaming/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+				"/C/Users/Javier/AppData/Roaming/Sublime Text 3/Packages/User/SassBeautify.sublime-settings",
+				"/D/Work/BigBuda/Vintek/wp-vintek/gulpfile.js",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/functions.php",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/game_account_migrate_sql.php",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/style.css",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/get_accounts_by_id.php",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/assets/intro.min.js",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/main.js",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/footer.php",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter/assets/stylesheet/components-full.css",
+				"/D/Repositorios/worldmuonline.com.mx/server/models/funciones.php",
+				"/C/Users/Javier/AppData/Local/Temp/Rar$EX73.584/documentation/WooCommerce Product Filter Documentation.html",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter/footer.php",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/game_account_create.php",
+				"/D/Repositorios/worldmuonline.com.mx/server/models/sql.class.php",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/get_server_info.php",
+				"/C/Users/Javier/Documents/premios-gm.txt",
+				"/C/Users/Javier/Documents/premios-gm-txt.xml",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/game_account_migrate.php",
+				"/D/Repositorios/worldmuonline.com.mx/wp-config.php",
+				"/D/Repositorios/wmo-backend/server-files/modulos/rankings-top-players.php",
+				"/D/Repositorios/worldmuonline.com.mx/log_file_sql.log",
+				"/D/Repositorios/wmo-backend/server-files/models/funciones.php",
+				"/D/Repositorios/worldmuonline.com.mx/server/models/log_file_sql.log",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter-child/style.scss",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter-child/_global.scss",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter-child/views/header/master/checkout.php",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter/framework/plugin-integrations/woocommerce/init.php",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter/views/header/master/checkout.php",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter-child/main.js",
+				"/C/Users/Javier/Downloads/Listado 09-11.csv",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/my_functions.php",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter-child/functions.php",
+				"/D/Repositorios/wmo-backend/theme-backend/my_functions.php",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter/languages/en_US.po",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/get_server_time.php",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-content/themes/jupiter-child/_mobile.scss",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/gulpfile.js",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/package.json",
+				"/D/Work/BigBuda/FlyBall/wp-flyball/wp-config.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-config.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/gulpfile.js",
+				"/D/Repositorios/wmo-backend/server-files/modulos/crear-cuenta-post.php",
+				"/D/Repositorios/worldmuonline.com.mx/.gitignore",
+				"/D/Repositorios/worldmuonline.com.mx/sftp-config.json",
+				"/D/Repositorios/wmo-backend/server-files/models/sql.class.php",
+				"/D/Repositorios/wmo-backend/server-files/sftp-config.json",
+				"/D/Repositorios/worldmuonline.com.mx/server/single_info/start_game_download.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/main.js",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/custom.scss",
+				"/C/Users/Javier/Downloads/firma.html",
+				"/C/Users/Javier/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/Javier/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/views/layout/title.php",
+				"/D/Repositorios/worldmuonline.com.mx/wp-content/themes/jupiter-child/views/layout/breadcrumb.php",
+				"/C/Users/Javier/Downloads/wmo.sql",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/uploads/mk_assets/components-production.min.css",
+				"/D/Work/BigBuda/HeadLine/wp-headline/package.json",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/package.json",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/gulpfile.js",
+				"/D/Repositorios/wmo-backend/server-files/modulos/modificar-cuentas.php",
+				"/D/Repositorios/wmo-backend/wordpress-backend/modules/crear-cuenta-form.php",
+				"/D/Repositorios/wmo-backend/server-files/modulos/administrar-cuentas.php",
+				"/D/Repositorios/wmo-backend/theme-backend/custom_style.css",
+				"/D/Work/IGC_ItemListS9.xml",
+				"/D/Repositorios/wmo-wizard/app/assets/css/main.scss",
+				"/D/Repositorios/wmo-wizard/app/assets/js/main.js",
+				"/D/Repositorios/wmo-wizard/gulpfile.js",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/_mobile.scss",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/functions.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/header.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/main.js",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/woocommerce/content-single-product.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/style.scss",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/_global.sass",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/_base.sass",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/style.css",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/css/woocommerce.css",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/js/init.js",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/css/responsive.css",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/header.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css",
+				"/D/Work/BigBuda/HeadBike/headbike-db.sql",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/functions.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/includes/header-search.php",
+				"/D/Repositorios/pagohub-intra/model/user.object.php",
+				"/D/Repositorios/pagohub-intra/controllers/setting.conf.php",
+				"/D/Repositorios/pagohub-intra/views/login.html",
+				"/D/Repositorios/pagohub-intra/node/pagohub-intra/gulpfile.js",
+				"/D/Repositorios/PagoHub-Frontend/app/styles/components/components.scss",
+				"/D/Repositorios/PagoHub-Frontend/app/styles/main.scss",
+				"/D/Repositorios/PagoHub-Frontend/gulpfile.js",
+				"/D/Repositorios/PagoHub-Frontend/app/styles/components/_objects.scss",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient-child/woocommerce/single-product/product-attributes.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/plugins/woocommerce/templates/single-product/product-attributes.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-config.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/.gitignore",
+				"/D/Work/BigBuda/HeadLine/wp-headline/bitbucket-pipelines.yml",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/main.js",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/single-portfolio.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/custom.css",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/views/singular/wp-single-portfolio.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/framework/helpers/image-resize.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/jupiter/functions.php",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/style.scss",
+				"/D/Work/BigBuda/HeadLine/wp-headline/wp-content/themes/style.css",
+				"/D/Work/httpd-vhosts.conf - Acceso directo.lnk",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/plugins/yith-woocommerce-wishlist/templates/add-to-wishlist.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/plugins/yith-woocommerce-product-slider-carousel/templates/product_slider_view_default.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/plugins/yith-woocommerce-wishlist/templates/add-to-wishlist-button.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/wp-content/themes/salient/css/colors.php",
+				"/D/Work/BigBuda/HeadBike/wp-headbike/.gitignore"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 92.0,
+				"where_history":
+				[
+					"D:\\Repositorios\\worldmuonline.com.mx\\wp-content\\themes\\jupiter",
+					"D:\\Repositorios\\worldmuonline.com.mx\\server",
+					"D:\\Work\\BigBuda\\FlyBall\\wp-flyball\\wp-content\\themes\\jupiter",
+					"D:\\Work\\BigBuda\\FlyBall\\wp-flyball\\wp-content\\themes\\jupiter\\views",
+					"D:\\Work\\BigBuda\\HeadBike\\wp-headbike\\wp-content\\plugins\\woocommerce-products-carousel-all-in-one",
+					"D:\\Repositorios\\wmo-backend\\server-files\\modulos",
+					"D:\\Repositorios\\wmo-backend",
+					"D:\\Work\\BigBuda\\HeadBike\\wp-headbike\\wp-content\\themes\\salient",
+					"D:\\Work\\BigBuda\\HeadBike\\wp-headbike\\wp-content\\themes",
+					"D:\\Work\\BigBuda\\HeadBike\\wp-headbike\\wp-content\\plugins\\woocommerce\\templates",
+					"D:\\Work\\BigBuda\\HeadBike\\wp-headbike\\wp-content\\plugins\\woocommerce\\templates\\single-product",
+					"D:\\Work\\BigBuda\\HeadLine\\wp-headline\\wp-content\\themes\\jupiter",
+					"D:\\Work\\BigBuda\\HeadBike\\wp-headbike\\wp-content\\themes\\salient",
+					"D:\\Repositorios\\PagoHub-Frontend\\app\\styles"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"37",
+					";",
+					"\t",
+					"\t0\t0\t",
+					";",
+					"0.7",
+					"<!--",
+					"Text=\"",
+					"<Msg ID=\"1\" Text=\"",
+					"n%s",
+					"o%s",
+					" \"/> <! - Libre, sin uso",
+					"%",
+					"l%d",
+					"%d",
+					"e%d",
+					"%",
+					"a%s ",
+					"r%s",
+					"d%s ",
+					"r%d",
+					"y%s",
+					":%s",
+					"s%d",
+					":%d",
+					"e%d ",
+					"en%d",
+					"%",
+					"Text=\"",
+					"\t\t\n",
+					"<Item ",
+					";",
+					"blog-item-holder",
+					".mk-blog-newspaper-item .blog-item-holder",
+					"<Msg ID=",
+					"<Msg ID=\"382\" Text=\"",
+					";",
+					";\n",
+					"cerrar",
+					"Done",
+					"list",
+					"wpb_adding_scripts",
+					";",
+					"sidebar",
+					".mk-process-steps ul li h3",
+					";",
+					".mk-process-steps",
+					"\\",
+					"mk-process-steps",
+					";\n",
+					"19",
+					";",
+					"\"mk-footer\"",
+					"mk-footer",
+					"wpb_adding_scripts",
+					"<!-- ",
+					"footer",
+					"<?php echo $pj[2]; ?>",
+					"Nombrepj",
+					";",
+					"current_user",
+					"`",
+					"S9",
+					"\"",
+					"$",
+					"$fecha_desconeccion[0]",
+					";",
+					"hook_header",
+					";",
+					"..",
+					"server",
+					"pper",
+					";",
+					"test_init",
+					"\").hide();",
+					"jQuery(\"",
+					"Añadir al carr",
+					".mk-product-holder",
+					";",
+					".shopping-cart-header .mk-header-cart-count",
+					"mk-shoping-cart-link",
+					"mk-moon-cart-2",
+					"mk-shoping-cart-link",
+					"http://www.headline.cl",
+					"wp-content/themes/jupiter-child",
+					"http://www.flyball.cl/",
+					";",
+					"product-title",
+					";",
+					"Checkout\"",
+					"Checko",
+					"ks_forum_icons",
+					":",
+					".bbp-forums, .bbp-topic-form",
+					"    margin: 30px 0;",
+					"mk-footer-copyright",
+					"909",
+					";",
+					"fff",
+					"fed731",
+					"ee1c25",
+					";",
+					"custom",
+					"<div class='charoption error'>",
+					"$user",
+					"\"",
+					"El nombre de la cuenta es invalido",
+					"$",
+					"<td>\t",
+					"_",
+					"</td><td>",
+					"\t<td>",
+					":",
+					";",
+					"wizard_migrar_acc",
+					"553",
+					"100",
+					"image_hom",
+					"237px",
+					"428px",
+					"cuadrad",
+					";\n",
+					"as Condes.",
+					" !important",
+					";",
+					".noticia",
+					"the-title ",
+					"jQuery"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"n %s",
+					"o %d",
+					"l %d",
+					"e %d",
+					"a %s ",
+					"r %s",
+					"d %s ",
+					"r %d",
+					"y %s",
+					": %s",
+					"s %d",
+					": %d",
+					"e %d ",
+					"en %d",
+					"\"",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/Work/BigBuda/HelpNet/wp-helpnet/wp-content/themes/jupiter-child/_global.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 167,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										167,
+										167
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												166,
+												167
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												150,
+												151
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Repositorios/wmo-launcher/Season9/right.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1123,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										164,
+										164
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/Repositorios/wmo-launcher/Season9/left_new.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2516,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/Repositorios/wmo-launcher/Season10/index.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4105,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4105,
+										4105
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 951.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 27.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 130.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,563,25,25,157",
+			"project": "Helpnet.sublime-project",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\Javier\\Documents\\Proyectos\\Hux.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 291.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 113,
+			"workspace_name": "/C/Users/Javier/Documents/Proyectos/Helpnet.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/Javier/Documents/Proyectos/Helpnet.sublime-workspace",
+			"/C/Users/Javier/Documents/Proyectos/Vintek.sublime-workspace",
+			"/C/Users/Javier/Documents/Proyectos/Hux.sublime-workspace",
+			"/C/Users/Javier/Documents/Proyectos/World Mu Online.sublime-workspace",
+			"/C/Users/Javier/Documents/Proyectos/Empresas FT.sublime-workspace",
+			"/C/Users/Javier/Documents/PagoHub.sublime-workspace",
+			"/C/Users/Javier/Documents/Proyectos/FlyBall.sublime-workspace",
+			"/C/Users/Javier/Documents/Proyectos/HeadBike.sublime-workspace",
+			"/C/Users/Javier/Documents/FlyBall.sublime-workspace"
+		]
+	}
+}
